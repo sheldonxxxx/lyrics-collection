@@ -1,0 +1,12 @@
+{
+  "song_title": "UNDEAD",
+  "artist_name": "YOASOBI",
+  "confidence_score": 0.98,
+  "search_queries_used": [
+    "UNDEAD YOASOBI 歌詞"
+  ],
+  "reasoning": "The lyrics were retrieved from two reliable Japanese lyrics websites (utaten.com and uta-net.com), both of which contain the complete and identical lyrics for YOASOBI's 'UNDEAD'. The lyrics match the ASR transcript with high accuracy, including the mixed English phrases like 'Past & Future can't change the Past'. Minor discrepancies in the transcript (such as '戦ってる' vs '戦ってるような') are common in ASR outputs and do not affect the overall match. Both sources confirm the song is in Japanese, which aligns with the artist's origin and the primary language of the lyrics.",
+  "lyrics_content": "UNHAPPY?\n悩める人の子よ\nUNLUCKY?\n人成らざる者も\nBE HAPPY!\n弛まず目指せよ\n生きているんだし\n目を逸らした過去も\n退屈な未来も\nカウンセリング\nやれやれ\n古今東西\nピースピース\nねえ何だかどうして\n戦ってるようなそんな気がするの\n触れられない 触れたくもない\n過去の自分自分自分自分と\nもうとっくに死んでる\n透明な亡霊と対決\n幼気で痛い記憶の奥\n残念？ もう居ないのに\nあれ？ そっちが良い？ アイロニーね\n透かされているのは現在の自分？\nナンセンス\n消えないレッテル\nYes! 要はコンプレックス\n取り憑かれているみたい\n巻き付いたまま\nまだ離れない\n在りし日の自分\nUNDEAD\n死んじゃいない\nお前とお前の連鎖\n生きていることとは変わり続けることだ\n不幸に甘んじて\n満足するなよ\n幸せになろうとしないなんて卑怯だ\nこの世この世は\n奇怪奇怪ファンタジー\n次は鬼が出るか蛇が出るか\n出会って遭ってやっと始まる物語\nさあ人か化物か\n閑話休題\nピースピース\nPast & Future\ncan't change the Past\nPast & Future\nrun for the Future\nカットイン\n何だかどうして\n未来になんぞ\n何の希望もない期待出来ない\nような気がして\nもう随分生きている\n既視感とテンプレで食傷\n素敵な出来事の気配もない\n残念\n積んだ経験の因果\n形骸化された神話と退屈な進化\n要は刺激が欲しいんだ\n飽きちゃった\n慣れちゃった\nなんて\n整っていくガイダンス\n増えるコンプライアンス\n蓋されていくみたい\n吸い尽くして\nあれもこれもどれも\n同じ味がする\nUNDEAD\n死んじゃいない\nお前とお前の連鎖\n何時の世も\n過去も未来も現在にあるんだ\n生きていることを\n愚直に果たせよ\n目指せハッピーエンド\nUNDEAD\n死んじゃいない\nお前に言っているんだ\n幸せを諦めてしまうな\n人で在れ\nただ苦しみに慣れて\n耐えているだけじゃ\n死んでいるも同然\n屍のアンデッド\nUNHAPPY？\n悩める人の子よ\nUNLUCKY？\n人成らざる者のも\nBE HAPPY！\n弛まず目指せよ\n生きているんだろ\n不幸に浸るも\n幸せになるのも\nそう全部全部お前だ\n古今東西\n一切合切\n森羅万象\nピースピース\nPast & Future\ncan't change the Past\nPast & Future\nrun for the Future\n人の在る所に何時も憂い事\n生き抜けこの化物ばかりの物語",
+  "lyrics_source_url": "https://utaten.com/lyric/hw24070102/",
+  "native_language": "Japanese"
+}

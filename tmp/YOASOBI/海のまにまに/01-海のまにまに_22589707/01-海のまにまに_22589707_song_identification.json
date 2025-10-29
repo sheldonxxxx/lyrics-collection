@@ -1,0 +1,12 @@
+{
+  "song_title": "海のまにまに",
+  "artist_name": "YOASOBI",
+  "confidence_score": 0.99,
+  "search_queries_used": [
+    "海のまにまに YOASOBI 歌詞"
+  ],
+  "reasoning": "The lyrics were retrieved from two reliable Japanese lyrics websites (uta-net.com and utaten.com), both of which contain the complete lyrics that match the provided ASR transcript. The content matches exactly in terms of structure, line breaks, and wording, with only minor typographical differences (such as '陽射し' vs '日差し') that are common variations. The song is confirmed to be in Japanese, which aligns with the artist YOASOBI being a Japanese musical unit. Cross-verification between two sources increases confidence in accuracy.",
+  "lyrics_content": "夜の合間を縫うように\n走る電車の中ゆらり\n後ろ向きに流れる景色をひとり\n座って 見ていた 見ていた\n昼下がりの陽射しは\n夕陽のオレンジ色に染まって\n藍色の空に押し潰されていく\nその最後の光を惜しむように\n目で追いかけたのは\n今日で バイバイ だから\n明日を捨てる為に飛び出した逃避行\n片道分の切符で行けるとこまで行くの\nどこにも居場所なんて無い私をこのまま\n夜に置いてって 置いてって\n不意に窓から見えた景色が暗闇に\n気付いたあれはそうだきっと夜の海\n出来心に手を引かれて降りた海辺の町\n波の音にただ導かれるように歩く\n誰かに呼ばれるように\n近付いた海のほとり\nここにはひとり\nもうこのままいっそ体をここに\nなんて考えていた私の前に\n突然現れた君は\n月明かりの下\n青白い肌\n白のワンピース\n「こんなとこで何しているの？」\nなんて急に尋ねるから\n言葉に詰まりながら\n「海を、見に」\n君は何かを取り出した\nそれは少し古い花火セット\nそこで気付いた\n彼女はコンクリートの上\n裸足だった\n今日で全部終わりにすると決めたから\nきっと私があの世界に近付いたから\n視えてしまった出会ってしまった\nそんな君と二人で\n花火の封を切った\nなかなか点かない花火に火を近付けながら\n私がここに来た理由を君は当ててみせた\nそして何度もやめなよって\n真剣な眼差しで言った\nだけど…\nその瞬間この手の先で光が弾けた\n思わず「点いた！」と二人で揃えて叫んでた\nこれでもかと輝く火花の\n鋭い音が響いた 響いた\nゆっくり眺める暇もなく消えていく輝きを\nもったいなくて最後の一瞬まで追いかけた\n電車の窓から見えた\n最後の太陽を惜しんだように\n追いかけた\nやっぱり 私\nねえ夜が明けたら君は\nどこかへ消えてしまうのかな\n夜の帳を抜け出して\n朝の光で目が覚めた\n隣を見ると当たり前のように眠る\n君の姿",
+  "lyrics_source_url": "https://www.uta-net.com/song/328155/",
+  "native_language": "Japanese"
+}

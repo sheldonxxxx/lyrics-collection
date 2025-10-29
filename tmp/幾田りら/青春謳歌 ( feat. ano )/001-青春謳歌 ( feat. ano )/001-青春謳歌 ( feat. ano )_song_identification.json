@@ -1,0 +1,12 @@
+{
+  "song_title": "青春謳歌",
+  "artist_name": "幾田りら",
+  "confidence_score": 0.98,
+  "search_queries_used": [
+    "青春謳歌 幾田りら ロニー 歌詞"
+  ],
+  "reasoning": "Lyrics were successfully retrieved from two reliable sources: uta-net.com and utaten.com. Both sources contain identical lyrics content that matches the provided ASR transcript with high accuracy. Minor differences in punctuation and spacing are normal variations between lyric sites. The song is confirmed to be in Japanese, which aligns with the artist and title. Cross-verification between multiple authoritative Japanese lyric sites increases confidence in the accuracy of the lyrics.",
+  "lyrics_content": "炭酸が抜けてるソーダみたい\n甘ったるくてもう飽きた\n手応えのひとつすら\n感じられない毎日です\n大したことない\nただしょうもない\n日々に今捧ぐ\nいつの日かそんな欠片が煌めくのです\n見上げた空の色は\n変わってしまったけど\n初めからずっとこの世界は\nどこか壊れていたの\nあっけないくらいに無力なイタい言葉も\n君を笑顔に出来るのなら\nそれでいいんだ\n馬鹿馬鹿しい無駄話で\n笑い飛ばしてやろう\nやられてばっかりじゃいられない\n今日も今日とて\n世界が僕らを置いていくのなら\nこの手で掴んで\n振り回してやるぜ\nまともそうにしてる先生も\nテレビの中のあの人も\n本当のことはいつも\nはぐらかしてばっかりで\n嘘も本当も○も×も\n自己責任なら\n誰を敵に回そうと\n君の側にいる\n後に引けない世界でゲーム\nファイティングポーズ\n後ろは任せて\n当たって砕けよう\nあっけなく終わってたまるか\nいざ飛び出そう\n怖いけどもう怖くないよ\n君がいるから\nほらクラクションの代わりに\n拡声器で歌おう\n誰にも止められやしない\n何があっても完全無欠のヒーロー\n二人ならどうにかなるでしょ？\n忘れないでね\n型破りの戦法\n仕掛けて手のひらで回そう\n僕らの必殺技で\n誰も彼も信じられない世界で\n君がくれた“絶対”だけは\n嘘がないって分かるから\n赤い夕焼けと\n前を行く背中が\n泣きそうなのを堪えているの\n僕は知っているよ\nならばグッバイ悲劇\nエンディングは僕らで決めよう\n無慈悲にやってくる未来も\n世界の終わりも\nまとめて全部抱きしめて\n声を高らかに\nこの歌をうたおう\n狂おしいほど愛おしい日々よ\n宣戦布告\nお前らに告ぐ\n「敵うはずないぜ」\nなんてね",
+  "lyrics_source_url": "https://www.uta-net.com/song/352008/",
+  "native_language": "Japanese"
+}

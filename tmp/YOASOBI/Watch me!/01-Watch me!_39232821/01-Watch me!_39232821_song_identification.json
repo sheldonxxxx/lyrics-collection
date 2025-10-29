@@ -1,0 +1,12 @@
+{
+  "song_title": "Watch me!",
+  "artist_name": "YOASOBI",
+  "confidence_score": 0.98,
+  "search_queries_used": [
+    "YOASOBI Watch me! 歌詞"
+  ],
+  "reasoning": "The lyrics were successfully retrieved from two reliable Japanese lyric sites (uta-net.com and utaten.com) that match the ASR transcript almost perfectly. Minor differences like '溶かして' vs '融かして' and 'ウィッグファントピー' vs 'Witch one to pick' are due to romanization and transcription variations. The core Japanese lyrics are identical across sources and match the provided transcript. The song is confirmed to be in Japanese as the primary language with some English phrases.",
+  "lyrics_content": "いつも迷惑ばかりかけるけど\nいつも散々困らせちゃうけど\nそれでも隣にいてくれる\n君のそばにずっと\n曖昧な言葉じゃ\n真面目な君には伝わらない\n頑丈なそのハートを\n覗いてみたい\n融かしてみたい\nそんな時こんな魔法はどうかな？\n何が出るかな？\nやっちゃえ！\nせーの！\nTry Try Try\nあやふやだって\nいいの！いいの！\nWitch one to pick\nWatch me do magic\nあらら想像以上の展開\nもう止められないのよ\nごめんなさい\n溢れる想いで空回り\n振りかけるhappyなイメージ\nで振り回すfancyなマジック\nまた君に\nくどくど言われちゃうけどほら\nこんなDay by dayがいい\nあの日から\nFalling in love with you\n変わらないから\nずっとOnly you\nだからほら\nうだうだしてる場合じゃないの\n掴めハッピーエンディング\nいつまでも\n隣で笑っていたいのよ\nいつも仲間はずれで\nひとりぼっちの毎日\nそんな私の前に\n現れた君は\n同じ寂しさを\n抱えている\nとてもとても優しい人\n今も心配事は多いけど\nもう私も君もひとりじゃない\n騒がしくて愛しいこの日々が\nずっと続きますように\n飛ばせhappyなイメージ\nとびきりのfancyなマジック\nまた君に\nくどくど言われそうだけれど\nそんなDay by dayがいい\nあの日から\nFalling in love with you\n気付いて欲しいの\nLoving you\nだからこそ\nうだうだしてる場合じゃないの\n次はどんなプランニング\nそしてまた今日もハプニング\n明日はどんな\nおかしなことが起こるかな\nずっと隣で見ててね",
+  "lyrics_source_url": "https://www.uta-net.com/song/373136/",
+  "native_language": "Japanese"
+}

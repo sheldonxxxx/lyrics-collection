@@ -1,0 +1,12 @@
+{
+  "song_title": "ハルジオン",
+  "artist_name": "YOASOBI",
+  "confidence_score": 0.98,
+  "search_queries_used": [
+    "ハルジオン YOASOBI 歌詞"
+  ],
+  "reasoning": "The lyrics were retrieved from two reliable Japanese lyrics websites (utaten.com and uta-net.com) using a search query in Japanese. The content from both sources matches perfectly with each other and closely aligns with the provided ASR transcript, with only minor variations in spacing and punctuation that are common in lyric transcriptions. The song is confirmed to be in Japanese, which matches the native script used in the title and artist name.",
+  "lyrics_content": "過ぎてゆく時間の中\nあなたを思い出す\n物憂げに眺める画面に映った二人\n笑っていた\n知りたくないほど\n知りすぎてくこと\nただ過ぎる日々に呑み込まれたの\nそれでもただもう一度だけ会いたくて\nあなたの言葉に頷き信じた私を\n一人置き去りに時間は過ぎる\n見えていたはずの\n未来も指の隙間をすり抜けた\n戻れない日々の欠片と\nあなたの気配を\n今でも探してしまうよ\nまだあの日の二人に手を伸ばしてる\n境界線は自分で引いた\n「現実は」って見ないフリをしていた\nそんな私じゃ\n見えない見えない\n境界線の向こうに咲いた\n鮮烈な花達も\n本当は見えてたのに\n知らず知らずの内に\n擦り減らした心の扉に鍵をかけたの\nそこにはただ美しさの無い\n私だけが残されていた\n青過ぎる空に目の奥が染みた\nあの日の景色に取りに帰るの\nあなたが好きだと言ってくれた私を\n誰にも見せずに\nこの手で隠した想いが\n今も私の中で生きている\n目を閉じてみれば\n今も鮮やかに蘇る景色と\n戻れない日々の欠片が\n映し出したのは\n蕾のまま閉じ込めた未来\nもう一度描き出す\nあの日のあなたの言葉と\n美しい時間と\n二人で過ごしたあの景色が\n忘れてた想いと\n失くしたはずの未来を繋いでいく\n戻れない日々の続きを歩いていくんだ\nこれからも、あなたがいなくても\nあの日の二人に手を振れば\n確かに動き出した\n未来へ",
+  "lyrics_source_url": "https://utaten.com/lyric/tt20051202/",
+  "native_language": "Japanese"
+}

@@ -1,0 +1,12 @@
+{
+  "song_title": "ミスター",
+  "artist_name": "YOASOBI",
+  "confidence_score": 0.98,
+  "search_queries_used": [
+    "ミスター YOASOBI 歌詞"
+  ],
+  "reasoning": "The lyrics were successfully retrieved from two reliable Japanese lyrics websites (uta-net.com and utaten.com), both showing identical content that matches the provided ASR transcript. The lyrics contain the distinctive 'ななななななななななな' vocalization at the end, confirming it is the correct version. Minor differences in punctuation and spacing do not affect the accuracy of the match.",
+  "lyrics_content": "シングルサイズの部屋で\n一人きり\n思い出すのはあなたとの暮らし\n物語の舞台は\nビルが群れる\n大都会を遠くに見る\n海辺の街\n初めて会った日のことだって\n今もまだちゃんと覚えてる\nフォーマルなシャツ\nジャケットが少し不似合いなあなた\n言葉数は少なくて\nいつも厳しくて\n叱られてばかりで\n機械仕掛けの心を\n無力さが包んでいった\nでも\nあなたを知りたくて\n何もかも知っていたくて\nだけど教えてなんて\n言えずに一人\nそっと夜に祈る\n少しでも分かりたくて\nそんな日々を繰り返した\nそれでも時折見せてくれた\n穏やかなあの表情も\n一度だけ浮かべた涙も\n隠し切れずに溢れていた\n優しさだった\nあの日もそうだった\nあれは二人最後の思い出\n暗闇でこの手を握り返して\n笑ってくれた\nあなたはもういない\n今でも聴きたくて\nもう一度聴かせて欲しくて\n優しくて不器用な\nあなたの声を 厳しい言葉を\nなんて願うこの気持ちは\nどんな名前なんですか\nまたいつもと同じように\n私のこと叱ってよミスター",
+  "lyrics_source_url": "https://www.uta-net.com/song/314460/",
+  "native_language": "Japanese"
+}

@@ -1,0 +1,12 @@
+{
+  "song_title": "ハルカ",
+  "artist_name": "YOASOBI",
+  "confidence_score": 0.98,
+  "search_queries_used": [
+    "Haruka YOASOBI 歌詞"
+  ],
+  "reasoning": "The lyrics were retrieved from two reliable sources: utaten.com and kkbox.com. The Japanese lyrics from utaten.com match the vocal content and emotional context of the song, while the English translation on KKBOX closely aligns with the provided ASR transcript. Key phrases such as 'I know it, back when no one would think of me to take home' and 'Had nowhere else to belong' appear in both the transcript and the KKBOX lyrics. Minor discrepancies are due to transcription variations (e.g., 'Caught in a knot and woke alone' vs 'Caught in and out and walk alone'). The high consistency across sources and alignment with the ASR confirms accuracy.",
+  "lyrics_content": "思おもい出だすのは\n出会であった日ひのこと\n誰だれの元もとにも帰かえれないボクを\n見みつけ出だしてくれた\n救すくい出だしてくれた\n忘わすれることない君きみの笑顔えがお\n暮くらしのすきま\nよふけの祈いのり\nいつでも君きみと共ともに歩あるいてきたキセキ\nつらいことも\nうれしいことも\n分わかち合あえるそんな\n日々ひびよ\nふりかえれば数かぞえ切きれない\n思おもい出でがあふれ出だしてくる\nだれにも見みえないところで\nがんばってる\n君きみのそばにいられること\nそれだけで\nこんなにほら幸しあわせなんだよ\nこみ上あげてくる\n想おもいはただ\nありがとう\n訪おとずれた\nよろこびの春はるは\n旅立たびだちの季節きせつ\nはなれた街まちにも\n連つれ出だしてくれたね\nひとり不安ふあんな日々ひびに\nさみしそうな君きみに\n送おくるエール\nボクがついてるよ\n楽たのしいことばかりじゃない日常にちじょうに\nあふれだした君きみの涙なみだ\nそれでも\n前まえを向むいて歩あるいて\nそうやって大人おとなになってく\n君きみのそばにいられること\n君きみのよろこびは\nボクのよろこびで\n君きみの大切たいせつが幸しあわせが\nいつまでも君きみとありますように\nねえ\n君きみのそばにはもう\nたくさんの愛あいがあふれてる\nだから今いまは\nどうか泣なかないで\nあの日ひのように笑顔えがおで\nふりかえればいくつもの\n思おもい出でがよみがえってくる\nだれにも見みえないところで\n流ながした涙なみだもほら\n今いまの君きみにつながってる\nたくさんの愛あいにつながってる\nこみ上あげてくる\n想おもいはただ\nありがとう\nいつまでも\n幸しあわせで\nいつまでも\n愛あいしてるよ",
+  "lyrics_source_url": "https://utaten.com/lyric/ma20121868/",
+  "native_language": "Japanese"
+}

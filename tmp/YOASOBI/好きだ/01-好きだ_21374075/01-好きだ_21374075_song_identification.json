@@ -1,0 +1,12 @@
+{
+  "song_title": "好きだ",
+  "artist_name": "YOASOBI",
+  "confidence_score": 0.98,
+  "search_queries_used": [
+    "好きだ YOASOBI 歌詞"
+  ],
+  "reasoning": "The lyrics were retrieved from two reliable Japanese lyrics websites (uta-net.com and utaten.com) and matched the provided ASR transcript with high accuracy. Minor differences such as '四回目' vs '4回目' and 'フラれて' vs '振られて' are common romanization variations. The content structure, line breaks, and overall text match perfectly. Cross-verification between two sources confirms accuracy.",
+  "lyrics_content": "急に居ても立っても居られず\n友達にSOS\n話聞いて欲しいんだ\nやっぱり私 彼のことが\n「そんなこと知ってるもう何度も」\n薄っぺらなそんなリアクション\n耳にタコが出来ててもいいから聞いて\n我慢出来ないんだ\nいざ彼に四回目の告白を\n期待薄い片思いなんて苦いだけ\n友達でいいよ\nすれ違いざま 一言交わすだけ\nそれだけでいいなんて\n思ってたのに\n頭から離れない君の声\nもしも君に想いを一度も\n伝えていなかったらなあ\n慣れた告白なんてちっとも\nときめかないよね\n初めて想い伝えた十年前\nあまりにも無邪気だった\n次の五年前も軽すぎたし\n次の三年前もそうだ\nもしも根こそぎ全部やり直せたのなら\nさあタイムトラベルだ あの日まで\n取り返そう 初めての告白を\n全部全部無かったことに\nそれでいいんだ\nそれでいいんだっけ\n何回フラれてがっかりしたって\n苦い想い繰り返したって\nその度触れた君の好きなものが\nいつしか私の好きなものになったんだ\nそれはかけがえない今の私の宝物\n失敗してもいい\nもう一度言うよ\n私 君のことが",
+  "lyrics_source_url": "https://www.uta-net.com/song/319258/",
+  "native_language": "Japanese"
+}

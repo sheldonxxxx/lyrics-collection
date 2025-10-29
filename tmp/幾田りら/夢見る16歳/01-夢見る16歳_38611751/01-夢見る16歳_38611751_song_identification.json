@@ -1,0 +1,13 @@
+{
+  "song_title": "夢見る16歳",
+  "artist_name": "幾田りら",
+  "confidence_score": 0.98,
+  "search_queries_used": [
+    "夢見る16歳 幾田りら 歌詞",
+    "夢見る16歳 幾田りら 歌詞 うたてん"
+  ],
+  "reasoning": "The lyrics were successfully retrieved from two authoritative Japanese lyrics websites: uta-net.com and utaten.com. The content matches the provided ASR transcript with high accuracy, including the mixed English phrases like 'with you', 'Under the moonlight', and 'You're 夢見る just sixteen'. Minor differences in romanization and spacing do not affect the overall match. Both sources confirm the same lyrics, increasing confidence in their correctness.",
+  "lyrics_content": "ちょっとおマセだって 言われても～オ\nと～きめく胸 ふくらんで来たから\nあなたにお願い\n初めてのキッスは with you\nUnder the moonlight 奪ってね\nこのまま送るよ 海の見える家まで\nママもパパもとても 頭痛してるよ\nお前を大事に していたいのさ\nYou're 夢見る just sixteen\nい～ま好きだって 言われたら～ア\nあた～まシビレて わからなくなりそうよ\nキャデラックのあの人も\nお熱あげてる 私に\nみんなあげたい 気分なの\nおまえがいちばん 好きさ only you, all the world\n他の誰にもお前 渡しはしない\nだけど、ソレは まだ早過ぎる\nYou're 夢見る just sixteen\nも～おあなたに 逢えないわ～ア\nど～かしてたの ホントにバカな娘ね\n後悔してるわ\n涙流して むかし想う\nやっぱりあなた いちばんよ",
+  "lyrics_source_url": "https://www.uta-net.com/song/371906/",
+  "native_language": "Japanese"
+}

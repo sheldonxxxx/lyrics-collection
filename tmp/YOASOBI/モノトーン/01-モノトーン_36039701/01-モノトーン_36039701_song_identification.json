@@ -1,0 +1,12 @@
+{
+  "song_title": "モノトーン",
+  "artist_name": "YOASOBI",
+  "confidence_score": 0.98,
+  "search_queries_used": [
+    "YOASOBI モノトーン 歌詞"
+  ],
+  "reasoning": "The lyrics were retrieved from two reliable Japanese lyrics websites: uta-net.com and utaten.com. Both sources provide identical lyrics that closely match the ASR transcript, with only minor punctuation differences (e.g., 'ふれる' vs '触れる'). The content, structure, and line breaks align perfectly with the provided transcript. The song is confirmed to be in Japanese, which matches the native language of the artist YOASOBI and the script used in the title.",
+  "lyrics_content": "ずっと 僕は 僕らは\n一人きりの世界を生きている\n隣り合う世界にそっとふれる度\n思い知るんだ\n思い出すんだ\n幼い頃の僕らは\n無邪気さに守られたまま\n呼び合う名前と\n明日の約束\nそれだけで世界は一つだと思えた\n分かり合えないことが\n許し合えないことが\n一つ二つ増えていく\nその度に僕は\n信じ合えると期待することさえも\nやめてしまった\nずっと 僕は 僕らは\nそれぞれ別の世界を生きている\n近付いたと思えば\n離れ離れに\nそう繰り返す度\n一人きりを思い知るんだ\n僕が 僕らが\nそれでも誰かを求めるのは\n孤独をただ素直に\n受け入れたまま\n生きていけるほど\n大人じゃないから\n教室の後ろに貼られた\n違う色で描かれた同じ景色たち\n僕らは誰もが\nそれぞれで違う\n少しのズレもなく重なることはないのに\n描いている理想からどれだけ\n離れているかで測るような\n愛に似せた 一人よがりは\n行き過ぎた ないものねだり\n確かめる度 嫌になって\n求める度 身勝手になって\n失う度 臆病になった\n今より多くは望まないから\n今より遠くへは行かないで\nそうやって曖昧な距離を保つことが\n大人になることだと思い込んだ\n僕は 僕は\n傷付くことから逃げているだけで\n本当はただ\n今でもまだ\n信じたいんだ\nずっと 僕は 僕らは\n誰もが別の世界を生きている\nだから手を繋いで\nそう言葉を交わして\n一人きりではないよと\nお互いに誤魔化し合うんだ\nいつか いつか\nこの未熟な孤独に包まれて\n覚えた寂しさと痛みの分だけ\n優しくなれたら\n人を信じられたら\nずっと 僕も 君も\n誰もが一人だ\n分かり合いたいと\n寄り添い合った心が\nふれるその時\n一瞬この世界は一つに見えた",
+  "lyrics_source_url": "https://www.uta-net.com/song/361401/",
+  "native_language": "Japanese"
+}

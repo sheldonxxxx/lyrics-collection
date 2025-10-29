@@ -1,0 +1,12 @@
+{
+  "song_title": "アンコール",
+  "artist_name": "YOASOBI",
+  "confidence_score": 0.98,
+  "search_queries_used": [
+    "アンコール YOASOBI 歌詞"
+  ],
+  "reasoning": "The lyrics were successfully retrieved from two reliable Japanese lyrics websites (uta-net.com and utaten.com) that match the ASR transcript perfectly. The content includes all verses, choruses, and the bridge section with identical wording to the provided transcript. Minor differences in punctuation and spacing are normal between sources. Both sites confirm the song is in Japanese, which aligns with the artist's primary language and the script used in the title.",
+  "lyrics_content": "明日世界は終わるんだって\n君にはもう会えないんだって\nまたいつかって手を振ったって\n叶わないんだよ\n仕方ないね\n明日世界は終わるんだって\nそれならもう\nその時まで何度でもずっと\n好きな音を鳴らそう\n薄暗闇に包まれた\n見覚えのない場所、目を覚ます\nここは夜のない世界\n今日で終わる世界\nそんな日にあなたに出会った\n好きにしていいと\nそれだけ残して\n何処かへゆく\nあなたの音が遠ざかってく\nそしてまたひとり\n淀んだ空気の中で\nありふれたあの日々をただ思い返す\n終わりが来ることを待つ世界で\n辛い過去も嫌な記憶も\n忘れられないメロディーも\n今日でさよなら\nひとり車を走らせる\n営みの消えた街の中を\n明日にはもう終わる今日に\n何を願う\n何を祈る\n何処かから不意に\n微かに聞こえてきたのは\nピアノの音\n遠い日の音\n誘われるままに\n呼吸を合わせるように\n重ねた音\n心地良くて\n懐かしくて\n幾つも溢れてくる\nいつしか蓋をして閉じ込めていた記憶\n奏でる音が連れてきた思い出\n気が付けば止まったピアノ\nいつの間にか流れた涙\n続きを鳴らそう\nありふれたあの日々をただ思い返す\n終わりが来ることを待つ世界で\n辛い過去も嫌な記憶も\n忘れられないメロディーも\nさよならなんだ\n今ここで好きなようにただ音を鳴らす\n最後の日に二人きりの街で\nありふれたあの日々をただ想い奏でる音が\n重なり響く\n明日世界は終わるんだって\n明日世界は終わるんだって\nもしも世界が終わらなくって\n明日がやってきたなら\nねえ、その時は二人一緒に\nなんて",
+  "lyrics_source_url": "https://www.uta-net.com/song/296108/",
+  "native_language": "Japanese"
+}

@@ -1,0 +1,12 @@
+{
+  "song_title": "ロマンスの約束",
+  "artist_name": "幾田りら",
+  "confidence_score": 0.98,
+  "search_queries_used": [
+    "ロマンスの約束 幾田りら ロリィタ 歌詞"
+  ],
+  "reasoning": "The lyrics were successfully retrieved from two reliable Japanese lyrics websites (uta-net.com and utaten.com). The content matches the provided ASR transcript with high accuracy, including specific phrases like '声が枯れて名前が呼べなくなる' and '明けない夜の夢を見せてほしい'. Minor differences in wording (e.g., '沢山' vs 'たくさんの') are common variations in lyric transcription. Both sources confirm the same lyrics structure and content.",
+  "lyrics_content": "これから二人過ごしていくために\n約束してほしいことがあるの\n声が枯れて名前が呼べなくなる\nその日まで忘れないで\n光を探すような眠れない夜は\n朝まで手を握っていてほしい\n沢山の愛で溢れたなら\n明けない夜の夢を見せてほしい\n天秤はいつも傾くけど\n今夜だけは同じでいたい\n二人で進み始めたこの列車の\n切符は最後まで無くさないでね\nもしも行き先を見失ったなら\nその場所でまた始めよう\n頬を濡らすような眠れない夜は\n心地いい左肩を貸してほしい\n沢山の愛を知れたのなら\n口紅を溶かすようなキスをして\nそのあとは鼻先でくすっと笑って\n終わりはないと言って抱きしめて\n君の短所や私の長所が\n変わってしまっても\n代わりは居ないよ きっと\n思い出が示すよ また手を取ろう\n星屑のようなこの世界で\n照らされた光の先にいたんだ\n君のままそのままが美しいから\nそれでいい それだけでいい\n沢山の愛で溢れたなら\n明けない夜の夢を見せてほしい\n天秤はきっとまた傾くけど\nずっとずっと君と一緒にいたい",
+  "lyrics_source_url": "https://www.uta-net.com/song/306196/",
+  "native_language": "Japanese"
+}

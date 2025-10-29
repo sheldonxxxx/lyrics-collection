@@ -1,0 +1,12 @@
+{
+  "song_title": "ヒカリ",
+  "artist_name": "幾田りら",
+  "confidence_score": 0.98,
+  "search_queries_used": [
+    "ヒカリ 幾田りら 歌詞"
+  ],
+  "reasoning": "The lyrics were successfully retrieved from two reliable Japanese lyrics websites (uta-net.com and utaten.com) using the native Japanese search query 'ヒカリ 幾田りら 歌詞'. The lyrics from both sources match each other perfectly and closely align with the provided ASR transcript, with only minor transcription differences in a few words (e.g., '抑え' vs '押さえ', '側' vs 'そば'). The song is confirmed to be in Japanese, which is consistent with the artist and title. The confidence score is high due to the exact match between two authoritative lyrics sources and strong correspondence with the transcript.",
+  "lyrics_content": "ふと思い出したんだ\n君はちゃんと話してくれた\nずっと一人温めてた夢を\n震える手を抑えながら\n君と二人で何処までも\n喜びと不安を分け合って\n少しずつ重ねてった日々も\nずっと側にいてくれた\n君が一人遠くで泣かないように\n暗い足元を照らす灯火でいるから\n君は君の思う歩幅でほら\n恐れずに踏み出して\n見上げた空は同じはずだ\n夕焼けは永遠だった\n時間は忘れたことにして\n暗くなるまで話した帰り道\n何度も電車を見送って\n気づけば遠くぼやけてた\n君の背中に手を伸ばすよ\n忘れかけてた約束を\nもう一度紡ぎ出す\n君の笑顔はあの頃のままで\n幼気な表情も話し方の癖も\n「待ってたよ」「遅くなってごめんね」\nあの日描いた二人\n今ここで交わり合ったの\nイチョウ並木駆けた朝\n隣り合う二つの影\n根拠のない大丈夫の言葉\n抜け出して見た屋上の空\n朝まで語った夢も全部\nきっと繋がる\n君がはじめて夢を語った時\n真っ直ぐな目が私の胸を貫いた\n紛れもなくあの日から始まったの\n何ものにも代えられない二人の物語\n「きっと私たちならやれるよ」と\n無邪気に讃えあった日々が繋いできた\nまた会いたいと強く願うことで\n実った夢の続きをまた君と叶えていくよ",
+  "lyrics_source_url": "https://www.uta-net.com/song/295930/",
+  "native_language": "Japanese"
+}

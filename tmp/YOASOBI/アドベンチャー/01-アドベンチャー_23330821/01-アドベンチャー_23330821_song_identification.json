@@ -1,0 +1,12 @@
+{
+  "song_title": "アドベンチャー",
+  "artist_name": "YOASOBI",
+  "confidence_score": 0.98,
+  "search_queries_used": [
+    "アドベンチャー YOASOBI 歌詞"
+  ],
+  "reasoning": "The lyrics were successfully retrieved from multiple authoritative Japanese lyrics websites (uta-net.com, utaten.com, j-lyric.net), all showing identical content. The lyrics match the provided ASR transcript with high accuracy, including specific phrases like “いつもの一日から抜け出して” and “回る地球儀を目印に”. Minor variations in kanji usage (“萌ゆる” vs “燃える”) are common in official lyrics transcriptions and do not affect the overall accuracy. The song is confirmed to be in Japanese, which aligns with the artist's origin and the script used.",
+  "lyrics_content": "いつもの一日から抜け出して\n目が覚めるような冒険の舞台へ\n回る地球儀を目印に\nさあ今会いに行こう\n特別な一日に\n緑萌ゆる新しい季節に\n一人見つめたブルーライト\n顔も知らない友達にも満たないクラスメイト\n想定外の暮らし\nこんなんじゃない\n妄想した理想と真反対に\n淡々と過ぎる毎日\nでもやっと会えるね\n想像と現実が交わって\n高鳴る胸押さえられない\n約束の場所は\n夢見ていた場所\n忘れられない一日が\n今始まる\n待ちに待った今日は特別な日\n日常から少しはみ出して\nほらシャッターを切って写し出せば\nどうしたって\n零れるような笑顔ばかり\n誰かが言い出して飛び乗ったコースターも\nお揃いのカチューシャも\nかけがえの無い瞬間で溢れてる\n待ち時間さえも愛しく思える\n次はどこに行こうか\n軽やかに歩く\n不思議なほどに\n気が付けば過ぎている時間\n太陽が沈んだ街を飾る\n光が織りなすパレードに\n心奪われ噛み締める\n本当にここに来れて良かったな\n待ちに待った今日は特別な日\nいつも通りから飛び出して\nほらシャッターを切っても写せない\n思い出がいつでも待っている\n春も夏も秋も冬も\nこの場所で見つけた笑顔が\nひらひらと幾つも積もっていく\nさあ次はいつ会いに行けるかな\n当たり前から抜け出して\n限界の無い冒険の舞台へ\n回る地球儀を目印に\nさあ今会いに行こう\n特別な一日に",
+  "lyrics_source_url": "https://www.uta-net.com/song/332798/",
+  "native_language": "Japanese"
+}

@@ -1,0 +1,12 @@
+{
+  "song_title": "セブンティーン",
+  "artist_name": "YOASOBI",
+  "confidence_score": 0.98,
+  "search_queries_used": [
+    "セブンティーン YOASOBI 歌詞"
+  ],
+  "reasoning": "The lyrics were retrieved from two reliable Japanese lyrics websites (utaten.com and uta-net.com) and matched closely with the provided ASR transcript. Minor differences in kanji usage (e.g., '在るべき' vs 'あるべき') are common variations and do not affect the meaning. The content structure, phrasing, and overall message align perfectly with the transcript. Both sources confirm the same lyrics, increasing confidence in accuracy.",
+  "lyrics_content": "鏡写しかのような\n瓜二つの世界に\nそれぞれ生まれた二人の私\n在るべき場所が違ったか\n神様が間違ったか\n同じ姿形中身は真反対\n違和感はどうやら\nずっと前に育ってた\nパパもママも大事に思ってる\nだけど私はどうやら\n此処じゃ私じゃないから\n赤は赤に黒は黒に戻るの\n次元を隔てた向こう側の世界じゃ\n今日だって残酷な悪魔が鳴いている\nあっちの私は怖がりで泣き虫なの\n見て見ぬ振りできないから\nこれじゃハッピーエンドとはいかない\nそれじゃ救いに行くね世界\nこんな乱暴な私を許して\nきっとやり遂げるから\nこれはバッドエンドなんかじゃない\nどこに居たとしても私は\nそう世界で一人のオリジナル\n誇らしく思ってくれたら嬉しいな\n境界の線で切り分けたこちら側の世界じゃ\n今日だって呑気な天使があくびする\n気付いてしまった悪は見逃せないから\n帰り道を交換しよう\n私が希望になるの\nお別れは少し寂しいけれど\nいつか目尻に作った傷も\n理不尽に立ち向かった証だから\nいつかハッピーエンドになるまで\n世界を相手に戦うの\nこんな乱暴な私をずっと\n愛してくれてありがとう\nこれはバッドエンドなんかじゃない\nどこに居たとしても私は\nあなたの唯一無二のオリジナル\n誇らしく生きるよ\nさあ在るべき場所に帰ろう\nさよならを告げたセブンティーン",
+  "lyrics_source_url": "https://utaten.com/lyric/ym23032911/",
+  "native_language": "Japanese"
+}

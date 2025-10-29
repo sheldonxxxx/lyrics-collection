@@ -1,0 +1,12 @@
+{
+  "song_title": "宝石",
+  "artist_name": "幾田りら",
+  "confidence_score": 0.95,
+  "search_queries_used": [
+    "宝石 幾田りら 歌詞"
+  ],
+  "reasoning": "The lyrics were retrieved from two reliable Japanese lyrics websites (uta-net.com and j-lyric.net), both showing identical content. The lyrics match the ASR transcript with high accuracy, including specific phrases like 「泣かないと決めていた」 and 「思い出が僕の心に」. Minor orthographic variations (e.g., 「分かっていた」 vs 「わかってた」) are common in official lyrics transcriptions and do not affect the overall accuracy. The song is confirmed to be in Japanese, consistent with the artist's nationality and the script used.",
+  "lyrics_content": "泣かないと決めていた\nずっと分かっていたんだ\n離れるときが来ると\n思い出が僕の心に\n寂しさを幾つも運んでくるんだ\nいい加減飽きたはずの\n戯けたやり取りさえ\n今更ちょっと恋しくなる\nまるで最後を忘れたように\nいつも通り笑うほうが\nよく似合ってる\n僕らはただ探し続けてた\n誰でもない唯一の自分を\nそれは昼間に浮かぶ星のように\n見えなくてもそこにあるもの\n始めから僕ら持っている\nかけがえないもの\n磨いていくその先でいつか\nきっと見つかる\n繰り返し覚えた歌が\n染み込んだメロディーが\n身体中を巡ってく\nひとつ残らず焼き付けるよ\n代わりのない\n僕の帰る場所を\n時に傷つき\n癒えない心を持ち寄っては\n朝が来るまで語り明かした\n少しだけ軽くなった身体に\n希望を注いで\nまた何度でも追いかけたね\n今夜僕はここを発つ\n積もる寂しさを背にして\n全部言葉にしなくたって\n頷く君を見れば分かる\nこれまでの時間が\n僕らに与えた光は\n誰にも遮れやしないよね\nきっと大丈夫\n始まりは独りぼっちだった\nそしてまた今日一人歩いていく\nでも背負った荷物の中に\n宝石のような日々が詰まってる\nもう孤独じゃない\nこの胸を灯し続ける光が\n紛れもなくそれは君だ\nいつまでもずっと",
+  "lyrics_source_url": "https://www.uta-net.com/song/333776/",
+  "native_language": "Japanese"
+}

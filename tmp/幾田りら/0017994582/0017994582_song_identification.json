@@ -1,0 +1,12 @@
+{
+  "song_title": "Answer",
+  "artist_name": "幾田りら",
+  "confidence_score": 0.99,
+  "search_queries_used": [
+    "Answer 幾田りら 歌詞"
+  ],
+  "reasoning": "The lyrics were successfully retrieved from two reliable Japanese lyrics websites (uta-net.com and utaten.com). The content matches the provided ASR transcript with high accuracy, including specific phrases like 'このままどこまで歩いていくんだろう', '鏡に映る自分を見つめて', and '未完成なままでいい'. Minor differences in kanji usage (e.g., 'うつる' vs '映る') are common variations. Both sources confirm the complete lyrics structure and content.",
+  "lyrics_content": "このままどこまで\n歩いていくんだろう\n鏡にうつる自分を見つめて\n答えは見つからない\nまだ少し欠けてる心\n抱き締めていたい今は\nうずくまって涙こぼした夜\n孤独が僕を育てていく\n不器用なだけに不甲斐ない\n自分を恨んでも\n続く日々の中で\n夢を見ていたい\n朝陽が昇る\n「いつか」を追いかける\n伸ばした手では\nまだ届かない場所\nこの胸の奥に住みつく臆病が\n僕の心を蝕まぬように\n今ほどいていく\n日に日に募っていく\n抱えきれない期待が\n僕の心を追い越していく\n「大丈夫」口に出す言葉は\n感情の裏返し\n弱虫なんだ\n減っていく時間 増えていく荷物\n逆さまにした砂時計のように\n過ぎ去った時間をもう一度\nやり直せても\n僕はまたきっとこの道を選ぶ\n瞼を閉じて確かめた想いが\n追い風に乗って速さを増していく\n時に足元取られそうな日も\n間違うことをもう恐れないで\n踏み出していくよ\n手繰り寄せた未来予想図\nこの手で書き換えていく\n視えない声に\n奪われないように\nここにいるための僕の証明を\n思い描いた日々を重ねていく\n振り返ればもう 無数のゴールライン\n越えてきた証\nこのままどこまで\n歩いていくんだろう\n鏡にうつる僕が頷く\n未完成なままでいい\n足りない欠片探して\n日々をまた紡いでいく",
+  "lyrics_source_url": "https://www.uta-net.com/song/299048/",
+  "native_language": "Japanese"
+}

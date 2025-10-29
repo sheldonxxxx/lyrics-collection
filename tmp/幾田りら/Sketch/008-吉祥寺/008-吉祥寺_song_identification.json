@@ -1,0 +1,12 @@
+{
+  "song_title": "吉祥寺",
+  "artist_name": "幾田りら",
+  "confidence_score": 0.98,
+  "search_queries_used": [
+    "吉祥寺 幾田りら 歌詞"
+  ],
+  "reasoning": "The lyrics were successfully retrieved from multiple authoritative Japanese lyrics websites (uta-net.com, utaten.com, j-lyric.net), all showing identical content. The lyrics match the ASR transcript with very high accuracy, with only minor differences in romanization ('Orange Line' vs 'レンジライン') and kanji usage ('七位橋' vs '七井橋'), which are common transcription variations. The consistency across three independent sources confirms the accuracy of the lyrics.",
+  "lyrics_content": "いつ振りかのOrange Line揺られ\n見えてくる\n懐かしい香りが記憶の奥をくすぐってる\n来る日も来る日も\n揺られ降り立った\n朝のホーム\n今でも覚えてる駅メロ\n変わんないルーティン\n通りを抜けて階段下れば\n見える七井橋\n右左見渡しても\n今はもう知らない顔ばかりで\n面影探してる\n会いたいな\n偶然会えないかな\n一人で歩くこの街はとても寂しいです\nそこらじゅう散らばるエピソード\n拾い集めては\n景色の中に映し出してる\n卒業間際の昼下がりには\n手漕ぎボート\nゆらゆら揺られ\n下から眺めるしだれ桜\n恋バナ咲かせてはしゃぐその側で\n散っていく花びらひとひら\n惜しむように目で追った\n橋を渡って噴水抜ければ\n並ぶ思い出ベンチ\nギターひとつ抱えて歌った唄\n覚えてますか？\nお客さんになって聴いてくれたね\n会いたいな\nどこかで会えないかな\n特別でありふれてた日々も\n年を重ねれば\n忘れたくないけど忘れていくもの\nだから思い出を持ち寄ってまた話そう\n色褪せないように",
+  "lyrics_source_url": "https://www.uta-net.com/song/333777/",
+  "native_language": "Japanese"
+}

@@ -1,0 +1,12 @@
+{
+  "song_title": "ハミング",
+  "artist_name": "幾田りら",
+  "confidence_score": 0.98,
+  "search_queries_used": [
+    "ハミング 幾田りら ロリスベリー 歌詞"
+  ],
+  "reasoning": "The lyrics were retrieved from two reliable sources (uta-net.com and kkbox.com), both showing identical content that closely matches the ASR transcript. Minor differences such as 「ああなりたいな」 vs 「離りたいな」 and 「部屋着のまま」 vs 「平気なまま」 are likely transcription variations. The overall structure, phrasing, and content match perfectly with the provided transcript, confirming this is the correct song.",
+  "lyrics_content": "はじめよう\nさぁ音に身をゆだね\n体中で感じて Take it easy\n力抜いて今日だけ Break free\n踊ろう\n歌おう\n祝おう\nEverything is alright\n窓を開ければ\nうららかな陽気を浴びた猫が\nあくびをしてる\n生まれ変われるなら\nああなりたいな\nのんびり怠けたいな\nとかぼやいてみて\nだらだらして\n無駄な時間を過ごすのも\nたまには必要でしょ\n部屋着のまま\n朝から晩まで\nいてもいいじゃん\n「息苦しい」ばっかりで\n幸せが逃げちゃわないように\nありのまま\n音に身をゆだね\n体中で感じてTake it easy\n力抜いて今日だけBreak free\n明日にはなるようになってるんだ\nだから今はただひと休み\nDon't worry\nどうにかなるさ\n人生ムズカシイ\n設定からもうハードモード\n欲張り言わないから\nヒントちょっと頂戴\nONとOFF\nバグって\nずっとON and ON\nこれじゃもう\n賞味期限も切れちゃうわ\n余裕がなくて\n焦ってミスして\n落ち込むループ\n何時まで何歳までやっていくの\nやってられないから歌うわ\nはじめよう\nさぁ音に身をゆだね\n体中で感じてTake it easy\n力抜いて今日だけBreak free\n口ずさむの\n「何か良いことが起こるはずだ」\nって願っていればね\nいつか\n本当に叶うわ\n明日のことは今だけ忘れよう\n山積みのタスクもほっとこう\n帳尻合わせられればいいでしょう\n今日を生きてくために\n少しだけTake a break大事\nNoisyな世界でこれからも\n歌い踊るんだ",
+  "lyrics_source_url": "https://www.uta-net.com/song/355573/",
+  "native_language": "Japanese"
+}

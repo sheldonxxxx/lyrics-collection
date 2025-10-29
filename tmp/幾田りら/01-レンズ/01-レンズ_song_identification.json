@@ -1,0 +1,12 @@
+{
+  "song_title": "レンズ",
+  "artist_name": "幾田りら",
+  "confidence_score": 0.99,
+  "search_queries_used": [
+    "レンズ 幾田りら 歌詞"
+  ],
+  "reasoning": "The lyrics were retrieved from three reliable Japanese lyrics websites (uta-net.com, utaten.com, and j-lyric.net), all showing identical content. The lyrics match the ASR transcript with high fidelity, including specific phrases like '一人歩く帰り道の途中' and 'イヤホンから伝うこの歌は'. Minor variations in kanji usage (貴方 vs あなた) are common in Japanese lyrics transcription but do not affect the meaning. The song is confirmed to be in Japanese, which aligns with the artist's nationality and the script used in the title and transcript.",
+  "lyrics_content": "一人歩く\n帰り道の途中\nイヤホンから伝うこの歌は\n二人だけの\n夕映えに貴方が\n教えてくれた小さな幸せ\n見返す写真には少し見切れた\n後ろ姿の貴方が写っている\nかざしたレンズのその先に\nただ貴方がそこにいれば\n華やいでいく心がここにあって\n未だに私を離さない\n一人きりの\nまだ少し冷えるベッドで\n何度も寝返りを打つ\n二人はいつ\n同じだけの想い\n一つの写真に重ねれるの？\n隣にいれば温かい心も\n夜が来る度 また冷めていくの\n私の瞳もいつからか\nただ一人貴方だけに\nどんなに遠く小さく片隅でも\nピントを合わせてしまう\nだらしなく揺れる背中さえも\n振り向いてみせる笑顔も\n一つも溢さずに焼き付けていたいよ\nかざしたレンズの真ん中に\nただ貴方を映していたい\nおぼつかない手つきでも精一杯\nその姿を捉えて\n貴方が瞳の真ん中に\n映すのは誰なのかな？\nいつか二人寄り添い笑う日々が\nアルバムを彩れるように",
+  "lyrics_source_url": "https://www.uta-net.com/song/319914/",
+  "native_language": "Japanese"
+}

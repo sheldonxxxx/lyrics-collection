@@ -1,0 +1,20 @@
+{
+  "song_title": "ロマンスの約束",
+  "artist_name": "幾田りら",
+  "native_language": "Japanese",
+  "story_type": "tv_show",
+  "creation_story": "「ロマンスの約束」は、幾田りらが高校生の頃に自身の瑞々しい恋心を込めて制作した楽曲であり、後にABEMA恋愛番組『今日、好きになりました。向日葵編』の主題歌として起用されたため、2021年にリアレンジバージョンが制作された。原曲は2019年に発表されたもので、ピアノ伴奏を中心にしたシンプルなアレンジだったが、主題歌用に星銀乃丈によってポップで純粋な新アレンジが施された。幾田りら自身も「高校生でしか味わうことのできない青春が、どんな恋模様を織り成していくのか今からとても楽しみです」とコメントしており、番組のテーマに深く共感していることが伝わる。彼女は「大切な人と同じ未来を見たいと願った曲であり、いつまでも変わらない想いを抱いていたいというメッセージを込めた」と語っており、若者の純粋な恋心を表現している。このリアレンジ版は2021年8月14日に配信リリースされ、ニッポン放送『YOASOBIのオールナイトニッポンX』にてフルオンエア解禁された。",
+  "background_story": "「今日、好きになりました。向日葵編」はABEMAで放送された恋愛リアリティーショーで、現役高校生たちが3泊4日の修学旅行に参加し、運命の恋人を見つけることをテーマとしている。番組では、参加者たちが旅を繰り返しながら、最終日に告白を行い、カップル成立を目指す。2021年7月26日より配信開始され、毎週月曜日に放送された。この番組には、前シーズンでカップル成立できなかった3名の継続メンバーが再参加しており、高校生活最後の夏休みに新たな恋を模索する姿が描かれた。登場人物には松村キサラ、増田彩乃、大塚萌香、柚来しいな、山崎美優といった女子メンバーと、石川悠人、千葉海宙、佐藤颯太、一ノ瀬将飛、菅生育利といった男子メンバーがおり、彼らの青春と恋模様がリアルに綴られた。\n\n歌詞の内容である「二人で進み始めたこの列車」「君のままいてほしい」などは、番組に参加する若者が新しい恋という人生の旅路に乗り出し、相手のありのままの姿を受け入れながら関係を築いていこうとする心情と強く共鳴している。",
+  "search_queries_used": [
+    "幾田りら ロマンスの約束 歌詞 意味 語られたストーリー",
+    "幾田りら ロマンスの約束 今日好きになりました 向日葵編 主題歌",
+    "今日、好きになりました。向日葵編 内容 あらすじ"
+  ],
+  "sources_used": [
+    "https://tower.jp/article/news/2021/07/20/tg002",
+    "https://prtimes.jp/main/html/rd/p/000000187.000055377.html",
+    "https://times.abema.tv/articles/-/8668638",
+    "https://realsound.jp/tech/2021/09/post-853938.html"
+  ],
+  "reasoning": "I searched for background information about the song \"ロマンスの約束\" by 幾田りら using multiple Japanese-language queries to find connections to anime, TV shows, or movies, and to understand the creation story. The search results clearly showed that the song is the theme song for the ABEMA reality show \"今日、好きになりました。向日葵編\". I verified this information across multiple sources including Tower Records Online, PR Times, ABEMA TIMES, and Real Sound, all confirming the song's role as the theme song.\n\nI used web_url_read to extract detailed information from these sources, focusing on the TV show's premise and the artist's comments about the song's creation. The Tower Records article provided the official announcement and the artist's comment about wanting the song to resonate with high school students' hearts. The PR Times release gave details about the rearrangement of the original 2019 song for the 2021 TV show, including the new arrangement by Seiginnoshou. The ABEMA TIMES article provided comprehensive cast information and show context, while the Real Sound article offered episode summaries and narrative context.\n\nThe song was originally written by 幾田りら during her high school years, capturing youthful emotions, and was later rearranged specifically for this TV program. The lyrics about embarking on a journey together and wanting someone to remain as they are perfectly align with the show's theme of high school students experiencing first love during a trip. All sources consistently support that this is a TV show theme song with a clear connection between the song's message and the program's content."
+}

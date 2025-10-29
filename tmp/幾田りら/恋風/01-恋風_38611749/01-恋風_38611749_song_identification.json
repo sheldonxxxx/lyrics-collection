@@ -1,0 +1,12 @@
+{
+  "song_title": "恋風",
+  "artist_name": "幾田りら",
+  "confidence_score": 0.98,
+  "search_queries_used": [
+    "恋風 幾田りら 歌詞"
+  ],
+  "reasoning": "The lyrics were retrieved from two reliable Japanese lyric websites (utaten.com and uta-net.com) and matched closely with the provided ASR transcript. Minor discrepancies such as '後遺症' vs '恋衣装' and '疼いて' vs '薄い' appear to be transcription errors in the ASR. The core lyrics structure, phrasing, and content are identical across sources and match the transcript. Both sources are authoritative for Japanese lyrics, with uta-net being one of Japan's most comprehensive lyric databases.",
+  "lyrics_content": "いつかの恋の後遺症で\n踏み出せなくなってしまっていた\nたまに疼いて痛くって\n臆病になる\nそんな僕には\n眩しいくらいに\n真っ直ぐな瞳で\n君は見つめてくれた\n止まっていた針が動き出す\nふわり\n空いた心にそっと\n舞い込んだ\nそよ風のようだ\nまるで\nこのまま揺さぶられていたいな\nもういっそ連れて行って\n遠くまで\n溢れ落ちた\n木の葉のように\n僕の心も君へと\n宙に舞ってゆらゆら\n行ったり来たり\nその瞳に僕は\nどんな風に映っているの？\nぐるぐる巡ってる\n体温が上がっていくような\n曖昧な心にそっと\n芽生え始める気持ちに\n揺れる\nこのまま身を任せてさ\n飛び込んでみたのなら\n君が今何をして\n何処で誰と笑っているんだろうって考えて\n会いたくなったり\n美しいものを見ると\n知らせたくなったりして\nもどかしくなるこの気持ちは\n恋に落ちることはきっと\nもっと簡単だっていいはずだ\nきらり\n光った想いをぎゅっと\nちゃんと抱きしめて行く\n今なら\n君が吹かせた風に乗って\n確かな一歩\n踏み出すよ\n「君が好きだ」",
+  "lyrics_source_url": "https://utaten.com/lyric/hw25041502/",
+  "native_language": "Japanese"
+}

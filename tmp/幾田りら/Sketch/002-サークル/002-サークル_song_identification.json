@@ -1,0 +1,12 @@
+{
+  "song_title": "サークル",
+  "artist_name": "幾田りら",
+  "confidence_score": 0.98,
+  "search_queries_used": [
+    "サークル 幾田りら 歌詞"
+  ],
+  "reasoning": "The lyrics were successfully retrieved from multiple reliable sources including Uta-Net, Utaten, and KKBOX. The content matches the ASR transcript with high accuracy, including Japanese verses, English phrases like 'Round and Round', and the overall structure of the song. Minor variations in romanization and furigana do not affect the correctness of the lyrics. Cross-verification across three independent lyric sites confirms authenticity.",
+  "lyrics_content": "毎日を予測変換で繋いでいく\n変わり映えのない生活にピリオドを\nいつの日か\nショーウィンドウを横目に\n丸くなった背中が情けないけれど\n今日まで素直に生きてきたつもりなんだ\nRound and Round で輪をなぞり続く\n繰り返す日々はドラマのように\n劇的に変わったりしないけど\nRun and Run めんどうな朝も越えて\nベッドに戻るこんな毎日も\n螺旋のように上って行けているかな\n目が回ってフリーズ\n動けないもう無理です\nもがくほど心は沈むのなら\n力を抜いて\nただ浮かんでいたい\nちょっと休憩\n再起動しよう\n平凡もありきたりも\n飽きるほど退屈なのに\n大それた幸せは望まないなんて\n嘘ばっか\nこんな自分に心が疼く\n予測不能で想定外の\n驚くような未来を見たいから\nRound and Round で輪をなぞり続く\n巡り巡る日々で描いてきた\n螺旋は明日へのバネになるんだ\nRun and Run ネガティブも追い出して\n曇り空に射す晴れ間のように\n切り開く光を探そう今は",
+  "lyrics_source_url": "https://www.uta-net.com/song/333779/",
+  "native_language": "Japanese"
+}

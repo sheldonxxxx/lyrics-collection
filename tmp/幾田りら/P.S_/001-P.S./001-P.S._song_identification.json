@@ -1,0 +1,12 @@
+{
+  "song_title": "P.S.",
+  "artist_name": "幾田りら",
+  "confidence_score": 0.98,
+  "search_queries_used": [
+    "P.S. 幾田りら 歌詞"
+  ],
+  "reasoning": "The lyrics were successfully retrieved from two reliable Japanese lyrics websites (uta-net.com and utaten.com). The content matches the ASR transcript perfectly, including the opening lines '何気なくいつも呼んでいた 名前を初めて書いて'. Minor variations in kanji usage (e.g., '尚更' vs 'なおさら') are common in lyric transcription but do not affect the meaning. Both sources confirm the same lyrics, increasing confidence in accuracy.",
+  "lyrics_content": "何気なくいつも呼んでいた\n名前を初めて書いて\n尚更愛しく感じた\nそんな君へ贈るレター\nでも君の心は私を向いてない\n想いを寄せている人がいると分かっている\nまっさらな便箋を\n溢れ出す想いで埋めていく\n身勝手に飛び込んで\n君の心を連れされたら\nなんて出来るはずないか\nまるで何もかも違う\n生き方もそのテンポも\nでも君に釣られていくのは\n心地良いと思えたんだ\n青空みたいな君が曇っていると\nたまらず思う\nそばに居られる人が私だったら\n君と私それぞれ紡いだ人生の\n一瞬かもしれないけれど\n君と話した時間が全て\n今の私を作って支えているの\nチグハグな恋に\n結ばれる未来がなくても\n手紙の最後に\n付け足そう本当の気持ち\n長い間しまい込んでいた言葉\nここで言おう\nP.S. 本当はずっと......",
+  "lyrics_source_url": "https://www.uta-net.com/song/340144/",
+  "native_language": "Japanese"
+}

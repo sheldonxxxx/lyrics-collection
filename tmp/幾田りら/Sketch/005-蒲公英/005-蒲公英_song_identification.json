@@ -1,0 +1,12 @@
+{
+  "song_title": "蒲公英",
+  "artist_name": "幾田りら",
+  "confidence_score": 0.98,
+  "search_queries_used": [
+    "蒲公英 幾田りら 歌詞"
+  ],
+  "reasoning": "The lyrics were retrieved from Uta-Net (https://www.uta-net.com/song/331146/), a reputable Japanese lyrics site, and cross-verified with UTA5 (https://www.uta5.com/kasi/41401) for accuracy. The lyrics match the provided ASR transcript with high fidelity, including nuanced phrases like '「この荒らないループ」' interpreted as '「この終わらないループ」' which is contextually accurate. Minor orthographic variations (e.g., '此処' vs 'ここ') are common in official lyrics and do not affect meaning. The song is confirmed to be in Japanese, consistent with the artist and title.",
+  "lyrics_content": "望んだ訳ではなく\n此処に生まれ落ちて\n気付けば両手一杯が\n託された理想で溢れる\n刷り込まれて行く内に\n膨らんで行った虚像で\n作り上げられた\nよく似た偽物\n未だ信じていたいと\n縛り付けられた心が叫ぶ\n彷徨いながら願った\nこの終わらないループを\n下らないルールを抜け出して\n何もかも置いてって\n素直に笑い合えたなら\nそんな日が\n報われたいんだとか\n救われたいんだとか\nそんな事言わないから\nただちゃんと目を向けて欲しいんだ\n音を立てず死んで行くこの心を\n見て見ぬ振り\n切りがない\nもう嫌なんだ\nこんな繰り返し\n静かなる戦いは陰の中\n日の目は当たらない\n最後の最後に残るものは\nどんなに傷付いても\n守り想い続けた事\n願いは花になって\nやがて綿毛の様に飛んで行く\n愛が途切れぬ様に繋いで\n風に乗って\n何処までも遥か遠く\n運命の向こうまで\nゆらり揺られ舞い落ちたその場所から\n芽を伸ばして咲き広がって行くと信じている\n未来へ想いを繋いで行く為ならば\n此処に生まれた意味も\n今なら受け止められるから\n舞い上がって行け\n諦める事も止めよう\nこの終わらないループも\n下らないルールも破り捨てて\n誰もが同じ様に\n許し合って愛し合えたなら\nそんな日を夢見て",
+  "lyrics_source_url": "https://www.uta-net.com/song/331146/",
+  "native_language": "Japanese"
+}

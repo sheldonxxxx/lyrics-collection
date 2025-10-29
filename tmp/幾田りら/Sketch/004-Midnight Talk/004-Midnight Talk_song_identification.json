@@ -1,0 +1,12 @@
+{
+  "song_title": "Midnight Talk",
+  "artist_name": "幾田りら",
+  "confidence_score": 0.98,
+  "search_queries_used": [
+    "Midnight Talk 幾田りら 歌詞"
+  ],
+  "reasoning": "The lyrics were retrieved from two reliable Japanese lyrics websites (uta-net.com and utaten.com), both showing identical content that matches the provided ASR transcript. The lyrics are in Japanese, which is consistent with the artist's nationality and the song's origin. Minor differences in punctuation and spacing do not affect the overall accuracy. The confidence score is high due to exact match of core lyrics across multiple authoritative sources.",
+  "lyrics_content": "なんだか寝付けない\n君も同じ気持ちなら\n始まるmidnight talking\n今日は何したの？\n君の話ひとつずつ聞かせて\n月明かりが照らす二人きりの部屋で\n今は後のこと気にせず\n秘密の話をしよう\n嫌になること全部、吐き出して\nそのまま夜の海に溶かそう\n飽きるまで隣で笑っていてよ\nこうして君と分け合う夜なら\nどこまで先が続いてもいいよ\n明けるまで心を預け合おうよ\nそのうち眠気が来るよ\n優しい夢を見てね my dear\nまだ眠たくない\n君も同じ憂鬱を抱えてるなら\nちょっと散歩しよう\nアイス買いにコンビニまで行こう\n難しいことは置いて\n手を繋ごう\n夜道照らす街灯はまるで\nspotlight\n帰り道お揃いのステップ踏もうよ\nついでにお気に入りの歌を口ずさんで\n映画のワンシーンのような\n明けるまで二人でふざけ合おうよ\nそのうちあくびが出るよ\n約束のように\n先に眠る君の\n長いまつ毛と温かい手と\n子供みたいな寝顔を\n眺めてるこんな夜をずっと\n愛してる",
+  "lyrics_source_url": "https://www.uta-net.com/song/333778/",
+  "native_language": "Japanese"
+}

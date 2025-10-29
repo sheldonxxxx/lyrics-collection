@@ -1,0 +1,12 @@
+{
+  "song_title": "Actor",
+  "artist_name": "幾田りら",
+  "confidence_score": 0.98,
+  "search_queries_used": [
+    "Actor 幾田りら 歌詞"
+  ],
+  "reasoning": "The lyrics were successfully retrieved from Uta-Net (https://www.uta-net.com/song/381475/), a reputable Japanese lyrics website. The retrieved lyrics match the provided ASR transcript with high accuracy, including key phrases like \"肩書きの上で踊るシルエット\", \"ドタバタな日々を ジグハグな歩幅で\", and \"見上げた 空を見たステラ\". Minor spelling variations such as \"胸ぽっけ\" vs \"胸ポッケ\" and \"はちゃめちゃ\" vs \"ハチャメチャ\" are due to romanization differences and do not affect meaning. The content was cross-verified with analysis on https://hidemon-note.com/actor-25-10/ which quotes the same lyrics. The song is in Japanese, consistent with the artist and anime association.",
+  "lyrics_content": "肩書きの上で\n踊るシルエット\n本音は胸ポッケに仕舞っておこう\n疎らな足音\nリズムを崩されるような\nそんなノイズも心地良い\nドタバタな日々を\nチグハグな歩幅で歩いていく\n繋いだ手の平に\n確かに感じる温もり\n誰もが着飾り踊るアクター\nそれでも何処か\n君と僕の会話の隙間\n見え隠れしている\n想いは投げ合うほどに\n安堵する不思議\nいつか終わるこんな日々だけど\n今はまだ\nこのハチャメチャで\n歪な僕らの\n明日を願っている\n陽が落ちる頃\nぼやけるシルエット\n別の顔を纏って夜を駆ける\n完璧にみせた\n不可能はまるでないような\nそんな理想を追いかけて\nクタクタに疲れて\nデコボコに擦り減る心を\n繋ぎ止める光は\n何時かの僕との約束\n見上げた空を満たすステラ\nその一つ一つが\n違う記憶 抱えて浮かぶ\n孤独な瞬き\n胸に秘めた君の心の内\n読み解けたのなら\nなんて悩む日もあるけれど\nすれ違いながら\n不揃いな心でも向き合っていたいんだ\n見えないものに愛は潜んでいる\n誰もが\n誰にも見せない\n顔を隠してる\nそれは大事な人を想う\n優しさの証\n誰もが着飾り踊るアクター\nそれでも僕ら\n手と手を繋ぎ今日も描く\nまだ見ぬストーリー\n揺るがない想いはいつしか\nシナリオを越える\nいつか終わるこんな日々だから\n今はただ\nこのハチャメチャで\n歪な世界を\n華麗に舞い踊る",
+  "lyrics_source_url": "https://www.uta-net.com/song/381475/",
+  "native_language": "Japanese"
+}

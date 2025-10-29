@@ -1,0 +1,12 @@
+{
+  "song_title": "DREAMER",
+  "artist_name": "幾田りら",
+  "confidence_score": 0.98,
+  "search_queries_used": [
+    "DREAMER 幾田りら 歌詞"
+  ],
+  "reasoning": "The lyrics were successfully retrieved from two reliable Japanese lyrics websites: uta-net.com and utaten.com. The content matches the provided ASR transcript with high accuracy, including specific phrases like 「簡単には手放せない」, 「口ずさんだ子守唄に」, and 「I'm a Dreamer」 at the end. Minor variations in wording (e.g., 「溢れた」 vs 「零れた」) are common in lyric transcriptions and do not affect overall accuracy. The song is confirmed to be in Japanese, consistent with the artist's origin and the script used.",
+  "lyrics_content": "簡単には手放せない\n差し伸べられたあのメロディー\n涙と一緒に溢れた\n私にはこれしかないんだと\n痛いほどに\n口ずさんだ子守唄に\n幼き日の夢が蘇る\n探していたものはこんなに近くで\n呼びかけるように瞬いてた\n両手で強く押さえ込んだって\n負けじと跳ね返すようにほら\nほとばしる熱は止まらない\nだから歌ってきた\nまた気付けば鳴らしてしまうから\n声が枯れ果てるその時まで\n飽きるほど腐るほど\nこの心掴んで揺さぶり離さないもの\n口にできず塞いだ思い\n救ったのはあなただから\n飾りものは持たずに行こう\n曝け出すことはまだ怖いけど\n信じている愛する人たちの\n信じてくれたこんな私を\n諦めはとっくにつかないほど\nがむしゃらに夢を追いかけた\n引き返す言い訳もいらない\nいつも歌ってきた\n当たり前に鳴らしてしまうんだ\n切り離せやしない私から\n夜空で光る星や月のように\n水の中で生きる魚のように\n揺れる音の波に\nこの身捧げてきた\n怯えてたあの頃の\n私はもういない\n響く歌声\nいつかの憧れ\n私が心震えた\nあの日のように\n今ならこの声で\nだから歌っていたい\n偽りのないありのままでいたい\nいつか夢が夢でなくなるまで\n飽きるほど腐るほど\nこの心掴んで揺さぶり離さないもの\n声にならない声をすくい上げてくれる\nそれがあなたなんだ\n終われないんだ\n今はまだ\nI'm a Dreamer",
+  "lyrics_source_url": "https://www.uta-net.com/song/370280/",
+  "native_language": "Japanese"
+}

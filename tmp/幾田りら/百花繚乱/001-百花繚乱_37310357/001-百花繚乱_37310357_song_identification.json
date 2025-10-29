@@ -1,0 +1,12 @@
+{
+  "song_title": "百花繚乱",
+  "artist_name": "幾田りら",
+  "confidence_score": 0.98,
+  "search_queries_used": [
+    "百花繚乱 幾田りら 歌詞"
+  ],
+  "reasoning": "The lyrics were successfully retrieved from two reliable Japanese lyrics websites (uta-net.com and utaten.com), both showing identical content that matches the provided ASR transcript. The song is confirmed to be in Japanese, as evidenced by the original script and metadata. Minor differences in kanji usage (e.g., 'ひょんがら' vs 'ひょんな') are common transcription variations but do not affect the overall accuracy. The lyrics match the structure and content of the ASR transcript perfectly.",
+  "lyrics_content": "ゆらゆらり\nはらはらり\n色とりどり\n乱れ咲き\n花の街思い出す\nこの空から\nひょんな出来事から\nやってきたこの場所は\n遥か遠くにあった\n煌びやかな舞台\nハっとするほど\n鮮やかな世界があるんだと知った\nあなたの無理難題に\n応えていくその度に\nあっと言わせるような\n奇想天外な答え合わせで\n辿り着いたその先に\n新しい景色が待っているんだ\n摩訶不思議なミステリー\n次から次に起こるたび\n巧妙なからくりも\n暴いてみせましょう\nどんな難題でも\n種や仕掛けはあるんだ\n副作用は気にしない\n必ずや導き出すから\nあぁこの場所で触れた\n人の哀しみや喜びがある\nそのひとつひとつが\n心を震わせる\nハッとしちゃうほど\n鮮やかな世界がここにあるんだ\nあなたの無理難題に\n応えていく毎日に\nあっと言わせるような\n奇想天外な答え合わせで\n辿り着いたその先に\n新しい私が待っているんだ\nあの頃は想像もしていない\n未来が咲き始めている\nこんな日々も悪くはないかな\nゆらゆらり\nひらひらり\n離れては\n寄り添って\nそよぐ風に身を任せ\n幽夜に舞う",
+  "lyrics_source_url": "https://www.uta-net.com/song/366579/",
+  "native_language": "Japanese"
+}

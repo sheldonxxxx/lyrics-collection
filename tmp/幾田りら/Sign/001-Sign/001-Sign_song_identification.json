@@ -1,0 +1,12 @@
+{
+  "song_title": "Sign",
+  "artist_name": "幾田りら",
+  "confidence_score": 0.98,
+  "search_queries_used": [
+    "Sign 幾田りら 歌詞"
+  ],
+  "reasoning": "The lyrics were retrieved from two reliable Japanese lyrics websites (uta-net.com and utaten.com), both showing identical content that matches the provided ASR transcript. The lyrics contain Japanese text with furigana readings on utatene.com, confirming the language. Minor differences in kanji usage (e.g., '波々' vs 'なみなみ') are due to stylistic presentation but represent the same pronunciation. The song is confirmed as the theme for the drama '透明なわたしたち'. Both sources show the same lyrics structure and content, providing high confidence in accuracy.",
+  "lyrics_content": "どうして\n崩れてしまうまで\n心を嘘で誤魔化してたの\nなみなみのグラス\n今にもあふれる\n最後のきっかけは些細なこと\nそうあっけないくらいに\nなだらかに堕ちていく\nもう隠せない\n見て見ぬふりしていること\n本当はわかっていたはずだよ\nどこへ向かう？\nどこへ帰る？\n透明なわたしを\n誰も見つけられない\n夕暮れ時ホーム\n人足は増えていく\n泣いてしまった\nこんなところで\nいつもの自分でいられず\nゆるやかに沈んでいく\nもう戻れない\n見て見ぬふりしてきたこと\n本当はわかっていたはずなのに\nただ行き交う人波に流され\nまともに歩けもしないで\n誰の目にも見えていないような\nこんなわたしは\nこのまま終われない\n生きていく限り\n諦める以外の道標\nここにいるって\n確かに思えるために\n探していく\nもう隠せない\n心から愛せる自分を\n本当のわたしを見つけられるまで\n待っている未来は\n不透明だけれど\n生き抜けたなら\nきっといつの日か",
+  "lyrics_source_url": "https://www.uta-net.com/song/360342/",
+  "native_language": "Japanese"
+}

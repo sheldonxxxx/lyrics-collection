@@ -1,0 +1,12 @@
+{
+  "song_title": "ノスタルジア",
+  "artist_name": "幾田りら",
+  "confidence_score": 0.98,
+  "search_queries_used": [
+    "ノスタルジア 幾田りら ロニー 歌詞"
+  ],
+  "reasoning": "The lyrics were retrieved from two reliable Japanese lyrics websites (uta-net.com and utaten.com), both showing identical content that matches the ASR transcript. Minor variations in spacing and punctuation do not affect the accuracy. The song is confirmed to be in Japanese, and the lyrics match across multiple authoritative sources.",
+  "lyrics_content": "か細い声で語る 私の話を聞いて\n無理に強がるわけじゃないけど あんな風にもう泣かないから\n少しずつずれていく ふたりの歩幅がつらい\n雨音にさえ 不意に怯えて はぐれてく二つの傘\n無邪気なまま 瞬いてる あなたとの思い出ノスタルジア\nねえそれ以上 言わないでよ こぼれた涙が 震える手に 落ちていく\n忘れることなど 出来ると思うの 見慣れた背中を 追いかけたい\n涙にまかせて こぼれたいいわけ 信じることさえ もう出来ない\n本当の気持ちは 胸にしまう ふたりの明日が消える前に\nありきたりな恋でいいと 素直に心揺らしてた\n幼いままの 私を包む まぼろしは空に消える\n冷たいまま 動いている 時計の針はもう戻せなくて\n今ほどけた 恋の糸が 戸惑う私を 切ないほど しめつける\nいとしさを超えて 悲しみを捨てて 新しい私に 今出会うの\nやがて訪れる 素敵な未来に あなたの姿は もう見えない\n本当の気持ちは 胸にしまう ひとりの明日を歩くために\nいとしさを超えて 悲しみを捨てて 新しい私に 今出会うの\nやがて訪れる 素敵な未来に あなたの姿は もう見えない\n本当の気持ちは 胸にしまう きらめく明日に出会うために\n本当の気持ちは 胸にしまう ふたりの明日が消える前に",
+  "lyrics_source_url": "https://www.uta-net.com/song/350346/",
+  "native_language": "Japanese"
+}

@@ -1,0 +1,40 @@
+[0.38s -> 2.30s]  Flutter fluttering, hover hovering
+[3.40s -> 5.74s]  Call is calling for me, blossoms in a spree
+[6.11s -> 8.66s]  Flower down I see in my memory
+[8.66s -> 11.56s]  Waves my soul from the sky
+[19.02s -> 21.96s]  Could not foresee in what they trod
+[21.96s -> 24.80s]  I was brought into a place unsigned
+[25.74s -> 28.02s]  Distances so far out of my sight
+[30.00s -> 30.96s]  Shine it bright
+[32.00s -> 34.66s]  Have to feel the sparkle running inside
+[34.66s -> 37.76s]  As stars divide, then visions open
+[37.76s -> 40.58s]  One dream view, a world that is so vibrant
+[40.58s -> 43.07s]  Each time you give me hopeless challenges
+[44.68s -> 47.66s]  I'm suspected the answer is on
+[47.66s -> 50.02s]  And what's unknown, but I'll find it
+[50.32s -> 52.06s]  Oh trust me, I'll close it on
+[52.06s -> 53.56s]  The end beyond that road
+[53.56s -> 56.30s]  I'm bound to see a brand new sea
+[56.30s -> 58.14s]  Past all lingering dead
+[107.20s -> 109.08s]  I'm in this very place,
+[109.12s -> 111.34s]  I've been so close to these feelings
+[111.52s -> 113.46s]  All the sadness and bad joy
+[113.46s -> 117.14s]  And all the people's emotions are touching my soul
+[117.14s -> 118.85s]  It's waste with the truth
+[122.00s -> 124.20s]  Have to feel the sparkle rushing inside
+[124.56s -> 127.36s]  I stop, divide, then visions open
+[127.36s -> 130.16s]  When I'm in a world that is so vibrant
+[130.16s -> 132.66s]  Each day you give me hopeless challenges
+[135.42s -> 138.66s]  Unsuspecting the answer is only what I know
+[138.71s -> 140.65s]  But I'll find it, oh trust me
+[140.70s -> 143.14s]  I close in on the end, beyond that road
+[143.14s -> 145.92s]  I'm bound to see a brand new me
+[147.14s -> 151.00s]  I'm lingering doubt, alone, couldn't guess
+[151.58s -> 153.52s]  Never thought back in those days
+[153.52s -> 155.86s]  The future that has started blooming today
+[155.86s -> 158.74s]  I wouldn't mind a time like this
+[158.74s -> 160.50s]  I can't really complain
+[166.36s -> 169.02s]  Flutter fluttery, hover hovery
+[169.90s -> 172.00s]  Cycle to restart, year end and apart
+[172.88s -> 175.24s]  So the wind may stray, let your body sway
+[177.14s -> 177.84s]  Dance with me

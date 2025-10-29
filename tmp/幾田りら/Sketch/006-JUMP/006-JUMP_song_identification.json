@@ -1,0 +1,12 @@
+{
+  "song_title": "JUMP",
+  "artist_name": "幾田りら",
+  "confidence_score": 0.98,
+  "search_queries_used": [
+    "JUMP 幾田りら 歌詞"
+  ],
+  "reasoning": "The lyrics were retrieved from Uta-Net (https://www.uta-net.com/song/328293/), a reputable Japanese lyrics site, and match the ASR transcript with high accuracy. Minor differences such as 'まもろ' vs '魔物' and 'だらけ出してゆく' vs '曝け出していく' are due to mishearing in the ASR. The content structure, flow, and key phrases align perfectly with the provided transcript. A secondary source (utaten.com) was used to verify the lyrics, confirming their accuracy.",
+  "lyrics_content": "乱れてる鼓動はまるで\n魔物のようだ\n言うこと聞いてくれどうか\n数秒先の未来で\n笑っていますように\n僕を信じるだけを繰り返す\n鳴り止まぬ声と眼差しが\n渦巻くその真ん中に\n駆け出して飛び込んでいく\n躊躇ってしまえば\n飛び立てない気がした\n後ろ振り向かず\nただ前だけ見つめて\n曝け出していく\n上手く行かなくって涙が出るのは\n終われないと思っているから\n乗り越えた先で繋がる夢が\nどこまでも僕を呼ぶ\n背丈よりも高い壁\n越えられなくて\n立ちすくんでしまう、もう何度目だ\n飛び越えられた自分を\n繰り返しイメージして\n自信の欠片を集めていく\n期待の数だけ\n重さは増していくけど\n背負えば背負うほどに\n僕は大きく、強くなる\n解き放っていく\n嫌ってきた緊張も味方につけたら\n奇跡だって起こせるはずだ\n僕だけが描く夢じゃない\n幾つもの手で繋いでいく\n降り注ぐエールは灯りに変わって\n行く先を照らしてくれる",
+  "lyrics_source_url": "https://www.uta-net.com/song/328293/",
+  "native_language": "Japanese"
+}
